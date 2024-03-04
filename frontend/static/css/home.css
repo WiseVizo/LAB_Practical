@@ -1,0 +1,12 @@
+* {
+  background-color: aqua;
+}
+
+body {
+  background-image: url("../img/betterEi.png");
+  /* Adjust other background properties as needed */
+  background-size: 55vw 72vh; /* Set the size of the background image */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent the background image from repeating */
+  height: 100vh; /* Set the height of the body to 100% of the viewport height */
+}
